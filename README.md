@@ -11,5 +11,5 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"> -->
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&langs_count=8">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
