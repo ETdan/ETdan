@@ -1,5 +1,5 @@
 
--  Hello 👋🏿 I'm <strong> Daniel Asfaw </strong> 👨🏿 a Third-year software engineering student 👨🏿‍💻 at Addis Ababa science and technology university </br>
+-  Hello 👋🏿 I'm <strong> Daniel Asfaw </strong> 👨🏿 a third-year software engineering student 👨🏿‍💻 at Addis Ababa science and technology university </br>
 - 🌱 I’m currently learning Backend development </br>
 - 🤌🏿 I'm interested in ML and ROBOTICS 🤖
 - 🤔 I’m currently looking for internships </br>
