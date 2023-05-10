@@ -8,7 +8,7 @@
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=ETdan&show_icons=true&theme=radical">
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
-<div style="clear:left;"> </div>
+<div style="clear:both;"> </div>
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
