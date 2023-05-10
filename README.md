@@ -10,4 +10,5 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&layout=compact"> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"> -->
 </br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&langs_count=8">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&langs_count=8)
