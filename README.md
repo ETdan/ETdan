@@ -8,5 +8,6 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ETdan&show_icons=true&theme=radical) </br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=ETdan&show_icons=true&theme=radical">
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&layout=compact"> -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"> --></br>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"> -->
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&langs_count=8)
