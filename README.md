@@ -5,5 +5,5 @@
 - 🤔 I’m currently looking for internships </br>
 - 📫 How to reach me: https://t.me/Trapsoul_m || asfawdaniel779@gmail.com </br>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ETdan&show_icons=true&theme=radical">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ETdan&show_icons=true&theme=radical">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
