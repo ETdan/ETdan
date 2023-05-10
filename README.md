@@ -10,4 +10,4 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&layout=compact"> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&langs_count=8"> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&layout=donut">
