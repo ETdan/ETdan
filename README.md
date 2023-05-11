@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://t.me/Trapsoul_m || asfawdaniel779@gmail.com </br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ETdan&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETdan&layout=compact">
 
 <!-- <img style="width:100%; height:13px; outline:none; clear=both;"> -->
 <!-- </div> -->
